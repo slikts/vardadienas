@@ -4,5 +4,5 @@ export interface Data {
   [key: string]: string[]
 }
 
-export const names = <Data>require('../data/names.json')
-export const extended = <Data>require('../data/extended.json')
+export const namedays = <Data>require('../data/namedays.json')
+export const extNamedays = <Data>require('../data/namedays-extended.json')
