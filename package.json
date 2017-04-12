@@ -1,12 +1,12 @@
 {
   "name": "vardadienas",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
   "scripts": {
-    "prepublish": "npm run build; npm test",
-    "build": "rm -f dist/*; tsc",
+    "prepublish": "npm run build && npm test",
+    "build": "rm -f dist/* && tsc",
     "test": "node test"
   },
   "repository": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/slikts/vardadienas#readme",
   "devDependencies": {
+    "tape": "^4.6.3",
     "typescript": "^2.3.0-dev.20170412"
   }
 }
