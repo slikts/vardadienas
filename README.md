@@ -1,7 +1,7 @@
 [![NPM version](http://badge.fury.io/js/vardadienas.svg)](http://badge.fury.io/js/vardadienas)
 [![GitHub version](https://badge.fury.io/gh/slikts%2Fvardadienas.svg)](https://badge.fury.io/gh/slikts%2Fvardadienas)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![Build Status](https://travis-ci.org/slikts/vardadienas.svg?branch=master)](https://travis-ci.org/slikts/vardadienas)
+[![Build Status](https://travis-ci.org/slikts/vardadienas.svg?branch=master)](https://travis-ci.org/slikts/vardadienas) [![Greenkeeper badge](https://badges.greenkeeper.io/slikts/vardadienas.svg)](https://greenkeeper.io/)
 
 # Vārda dienas
 
